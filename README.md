@@ -1,2 +1,2 @@
 # HTML5PildorasInformaticasVideo30
-# Canvas - Trazados curvos
+HTML5 - Curso - Píldoras Informáticas - Canvas - Trazados curvos
